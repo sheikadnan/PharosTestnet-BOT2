@@ -28,7 +28,7 @@ Pharos Testnet BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/ashtrobe/PharosTestnet-BOT
+   git clone https://github.com/sheikadnan/PharosTestnet-BOT2
    ```
    ```bash
    cd PharosTestnet-BOT
